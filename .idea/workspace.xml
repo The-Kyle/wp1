@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2073ec2-9300-4300-bea7-d83636bd8ac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/includes/core-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public/css/myplugin-login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public/js/myplugin-login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/uninstall.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/w0411224-myplugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/w0411224-myplugin.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-294453426">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="js" value="7" />
+          <entry key="log" value="3" />
+          <entry key="php" value="110" />
+          <entry key="pot" value="3" />
+          <entry key="scss" value="77" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="JavaScript" value="7" />
+          <entry key="Locale" value="3" />
+          <entry key="PHP" value="110" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="SCSS" value="77" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="js" value="159" />
+          <entry key="log" value="1" />
+          <entry key="php" value="4096" />
+          <entry key="scss" value="2876" />
+          <entry key="txt" value="315" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JavaScript" value="159" />
+          <entry key="PHP" value="4096" />
+          <entry key="PLAIN_TEXT" value="316" />
+          <entry key="SCSS" value="2876" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/w0411224-myplugin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="74" column="61" lean-forward="true" selection-start-line="74" selection-start-column="61" selection-end-line="74" selection-end-column="61" />
+              <folding>
+                <element signature="e#6#367#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/uninstall.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding>
+                <element signature="e#6#88#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/includes/core-functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1926">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public/css/myplugin-login.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public/js/myplugin-login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>form-submit</find>
+      <find>functions.php</find>
+      <find>register_side</find>
+      <find>footer.php</find>
+      <find>extras.php</find>
+      <find>humescore</find>
+      <find>inc/template-tags.php</find>
+      <find>require</find>
+      <find>caines-lab-5</find>
+      <find>caines_lab_5_</find>
+      <find>caines_lab_5</find>
+      <find>caines</find>
+      <find>extras</find>
+      <find>full-blee</find>
+      <find>pagination</find>
+      <find>full-bleed</find>
+      <find>eee</find>
+      <find>site-content</find>
+      <find>'primary'</find>
+      <find>inc/extras.php</find>
+      <find>categor</find>
+      <find>cat-item</find>
+      <find>widget_cate</find>
+      <find>cat-link</find>
+      <find>register</find>
+      <find>sidebar-catego</find>
+      <find>sidebar-3</find>
+      <find>.cat-lin</find>
+      <find>-login.css</find>
+      <find>textdomain</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lee-lab-5</replace>
+      <replace>lee_lab_5_</replace>
+      <replace>lee_lab_5</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/wp-content/themes</dir>
+      <dir>$PROJECT_DIR$/wp-content/themes/lee-lab-5</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Kyeongwon Kay &lt;w0411224@nscc.ca&gt;" />
+        <option value="K" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/js/navigation.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/forms/_buttons.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/footer/_footer.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/variables-site/_colors.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/js/functions.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/media/_galleries.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/navigation/_navigation.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/variables-site/_structure.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/template-parts/content-single-old.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/comments.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/template-parts/content-single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sidebar-footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/inc/template-tags.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/_site.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/template-parts/content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/navigation/_content-navigation.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/header/_header.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/primary/_comments.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/layout/_global.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/archive/_archive.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/archive.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/template-parts/content-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/inc/extras.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/inc/template-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/category-broder.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sidebar-category.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/category.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/category-1.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/primary/_posts-and-pages.scss" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/simple-example-plugin/simple-example-plugin.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/readme.txt" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/secondary/_widgets.scss" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/admin-menu.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/settings-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/setttings-register.php" />
+        <option value="$PROJECT_DIR$/wp-content/debug.log" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/settings-callbacks.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/settings-validate.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public/css/myplugin-login.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public/js/myplugin-login.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/includes/core-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/languages/myplugin.pot" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/w0411224-myplugin.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/uninstall.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="118" />
+    <option name="width" value="1528" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="w0411224-myplugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="w0411224-myplugin" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="w0411224-myplugin" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="w0411224-myplugin" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="w0411224-myplugin" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="w0411224-myplugin" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="w0411224-myplugin" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/plugins/simple-example-plugin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin" />
+      <recent name="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public" />
+      <recent name="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/languages" />
+      <recent name="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/includes" />
+      <recent name="$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="3000">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2073ec2-9300-4300-bea7-d83636bd8ac0" name="Default Changelist" comment="" />
+      <created>1548342012901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548342012901</updated>
+      <workItem from="1548342014142" duration="4615000" />
+      <workItem from="1548772468445" duration="1641000" />
+      <workItem from="1548865555173" duration="5964000" />
+      <workItem from="1548947356690" duration="4472000" />
+      <workItem from="1549024006593" duration="2003000" />
+      <workItem from="1549039031854" duration="10497000" />
+      <workItem from="1549376905653" duration="6214000" />
+      <workItem from="1549471365144" duration="5921000" />
+      <workItem from="1549547710516" duration="14948000" />
+      <workItem from="1549570811746" duration="2398000" />
+      <workItem from="1549643754386" duration="5747000" />
+      <workItem from="1549982226761" duration="5352000" />
+      <workItem from="1550156074854" duration="5391000" />
+      <workItem from="1550248893674" duration="3293000" />
+    </task>
+    <task id="LOCAL-00001" summary="Lab 5 Initial Checkin.">
+      <created>1548344105879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548344105879</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lab 5 Initial Checkin.">
+      <created>1548344259926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548344259926</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab 5 Initial Checkin.">
+      <created>1548344503585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548344503585</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab 5 Initial Checkin..">
+      <created>1548347139386</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548347139386</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab 5 doing chapter 4">
+      <created>1548950889176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548950889176</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lab 5, start of Ch5">
+      <created>1549027418236</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549027418236</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lab 5, end of Ch5">
+      <created>1549043492005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549043492005</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lab 5, start of Ch6">
+      <created>1549045682093</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1549045682093</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lab 5, end of Ch6">
+      <created>1549050088367</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549050088367</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lab 5, end of Ch7">
+      <created>1549383494285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1549383494285</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lab 5, start of Ch8">
+      <created>1549472991356</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1549472991356</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Lab 5, end of Ch8">
+      <created>1549475042998</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1549475042998</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lab 5, end of Ch9">
+      <created>1549476281844</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1549476281844</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Lab 5, end of Ch10">
+      <created>1549550906012</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1549550906012</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Lab 5, end of Ch11">
+      <created>1549571629634</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1549571629634</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Lab 6 - Completed">
+      <created>1549572580384</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1549572580384</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Lab 6 - Completed.">
+      <created>1549645086803</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1549645086803</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Assignment2 Completed">
+      <created>1549648735260</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1549648735260</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Doing Lab6">
+      <created>1549984314581</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1549984314581</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Doing Lab6 - End of Ch2">
+      <created>1549986265595</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1549986265595</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Doing Lab6 - End of Ch2">
+      <created>1549986294141</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1549986294141</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Doing Lab6 - Middle of Ch3">
+      <created>1550159933310</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1550159933310</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Doing Lab6 - Middle of Ch3">
+      <created>1550159987822</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1550159987822</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Doing Lab6 - Middle of Ch3">
+      <created>1550161456014</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1550161456014</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78456000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1600" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2545103" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49871135" weight="0.3275862" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49806702" visible="true" weight="0.19396552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3275862" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3275862" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29166666" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.501933" side_tool="true" weight="0.2974138" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="During Jan24 in-class" />
+    <MESSAGE value="Lab 5 Initial Checkin" />
+    <MESSAGE value="Lab 5 Initial Checkin." />
+    <MESSAGE value="Lab 5 Initial Checkin.." />
+    <MESSAGE value="Lab 5 doing chapter 4" />
+    <MESSAGE value="Lab 5, start of Ch5" />
+    <MESSAGE value="Lab 5, end of Ch5" />
+    <MESSAGE value="Lab 5, start of Ch6" />
+    <MESSAGE value="Lab 5, end of Ch6" />
+    <MESSAGE value="Lab 5, end of Ch7" />
+    <MESSAGE value="Lab 5, start of Ch8" />
+    <MESSAGE value="Lab 5, end of Ch8" />
+    <MESSAGE value="Lab 5, end of Ch9" />
+    <MESSAGE value="Lab 5, end of Ch10" />
+    <MESSAGE value="Lab 5, end of Ch11" />
+    <MESSAGE value="Lab 6 - Completed" />
+    <MESSAGE value="Lab 6 - Completed." />
+    <MESSAGE value="Assignment2 Completed" />
+    <MESSAGE value="Doing Lab6" />
+    <MESSAGE value="Doing Lab6 - End of Ch2" />
+    <MESSAGE value="Doing Lab6 - Middle of Ch3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doing Lab6 - Middle of Ch3" />
+  </component>
+  <component name="WordPressConfiguration" doNotAskAgain="true" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/archive/_archive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/template-parts/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/navigation/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/js/navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/_site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/layout/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/inc/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-466">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/inc/template-tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="189" column="58" selection-start-line="189" selection-start-column="58" selection-end-line="189" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/inc/template-functions-origFeb8.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sidebar-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/inc/extras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/functions_by_caines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="223" selection-start-line="223" selection-end-line="226" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/navigation/_content-navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="107" column="13" lean-forward="true" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sidebar-footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/inc/template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="105" column="32" selection-start-line="105" selection-start-column="32" selection-end-line="105" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/simple-example-plugin/license.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/simple-example-plugin/simple-example-plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/security-example-validation.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/security-example-nonces.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/license.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/includes/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/languages/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sidebar-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/category-uncategorized.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/inc/jetpack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/secondary/_widgets.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1494">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="141" column="23" selection-start-line="141" selection-start-column="23" selection-end-line="141" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lee-lab-5/sass/site/primary/_posts-and-pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/debug.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/settings-register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1910">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/settings-callbacks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/settings-validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/admin-menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/settings-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public/css/myplugin-login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/includes/core-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1926">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/public/js/myplugin-login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/languages/myplugin.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/w0411224-myplugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="74" column="61" lean-forward="true" selection-start-line="74" selection-start-column="61" selection-end-line="74" selection-end-column="61" />
+          <folding>
+            <element signature="e#6#367#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/w0411224-myplugin/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
